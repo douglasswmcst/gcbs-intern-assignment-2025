@@ -8,7 +8,7 @@ Hello and welcome\! This assignment is your opportunity to demonstrate your full
 
 ## 📅 Deadline
 
-**Submission Deadline**: 1 August 2025, 23:59 HRS (UTC+6)
+**Submission Deadline**: 4 August 2025, 23:59 HRS (UTC+6)
 
 Please submit your assignment by the time specified above.
 
