@@ -1,4 +1,4 @@
-# GCBS Software Engineering Intern - Full-Stack Take-Home Assignment (Auth & DB Edition)
+# GCBS Software Engineering Intern - Full-Stack Take-Home Assignment
 
 Hello and welcome\! This assignment is your opportunity to demonstrate your full-stack skills by building a complete web application with Next.js, including database integration and user authentication. We want to see how you approach a problem, design a data model, handle user identity, and make technical decisions.
 
